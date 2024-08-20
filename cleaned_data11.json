@@ -89,7 +89,18 @@
         }
     ],
     "IDENTIFICATION": {
-        "Product Identifier": "Acetic Acid, 1 N, 3-10% v/v Product Code(s): NC-2271, A1005, A1006, A1007, A1015, A1040, A1060, CF1171, CF1209",
+        "Product Identifier": "Acetic Acid, 1 N, 3-10% v/v",
+        "Product Code(s)": [
+            "NC-2271",
+            "A1005",
+            "A1006",
+            "A1007",
+            "A1015",
+            "A1040",
+            "A1060",
+            "CF1171",
+            "CF1209"
+        ],
         "Synonyms": "Ethanoic Acid Solution; Methanecarboxylic Acid Solution; Vinegar Solution.",
         "Recommended Use": "For manufacturing, industrial, and laboratory use only. For use as a solvent or as a laboratory reagent.",
         "Uses Advised Against": "Not for food, drug, or household use.",
@@ -106,7 +117,8 @@
         "Precautionary Statements": "Not Provided",
         "Prevention": "Do not breathe fumes, mists, vapors, or spray. Wash thoroughly after handling. Wear protective gloves, protective clothing, eye protection, and face protection.",
         "Response": "Immediately call a poison center or doctor.",
-        "If swallowed": "Rinse mouth. Do NOT induce vomiting. If on skin (or hair): Take off immediately all contaminated clothing. Rinse skin with water. Wash contaminated clothing before reuse.",
+        "If swallowed": "Rinse mouth. Do NOT induce vomiting.",
+        "If on skin (or hair)": "Take off immediately all contaminated clothing. Rinse skin with water. Wash contaminated clothing before reuse.",
         "Product": "Acetic Acid, 1 N, 3-10% v/v",
         "Revision Date": "05/18/2016 1/7",
         "If inhaled": "Remove person to fresh air and keep comfortable for breathing.",
@@ -184,7 +196,8 @@
         "Product": "Acetic Acid, 1 N, 3-10% v/v",
         "Revision Date": "05/18/2016 4/7",
         "Evaporation Rate": "No information found.",
-        "Viscosity": "No information found. Partition Coefficient No information found. (n-octanol/water): 10."
+        "Viscosity": "No information found. Partition Coefficient No information found.",
+        "(n-octanol/water)": "10."
     },
     "STABILITY AND REACTIVITY": {
         "Reactivity Data": "Corrosive to several materials, especially certain metals. See Section 11.",
@@ -200,7 +213,9 @@
         "Acute Effects": "Corrosive. Harmful if swallowed or inhaled. Causes burns and damage to the eyes, skin, respiratory tract, and gastrointestinal tract. May affect the mucous membranes, blood, brain, urinary system, liver, eyes, and kidneys.",
         "Chronic Effects": "Prolonged or repeated exposure may cause tooth damage, skin discoloration, and respiratory irritation. Prolonged or repeated exposure may cause mutagenic effects, skin sensitization, and adverse reproductive effects.",
         "Toxicological Data": "Water: Not applicable.",
-        "Acetic Acid": "LD50, Oral, Rat: 3310 mg/kg LC50, Inhalation, Rat: 11.4 mg/L 4 h LD50, Dermal, Rabbit: 1060 mg/kg May cause reproductive effects based on animal data.",
+        "Acetic Acid": "LD50, Oral, Rat: 3310 mg/kg",
+        "LC50, Inhalation, Rat": "11.4 mg/L 4 h",
+        "LD50, Dermal, Rabbit": "1060 mg/kg May cause reproductive effects based on animal data.",
         "Symptoms of Exposure": "Irritation, blistering, burns, dizziness, visual disturbances, metabolic acidosis, suffocation, shortness of breath, coughing, nausea, vomiting, blood in vomit, diarrhea, constipation, abdominal pain, blindness, bronchitis, shock.",
         "Carcinogenic Effects": "This product is not considered to be a carcinogen by IARC, ACGIH, NTP, or OSHA. 12."
     },
@@ -208,7 +223,9 @@
         "Ecotoxicological Data": "Water: Not applicable.",
         "Product": "Acetic Acid, 1 N, 3-10% v/v",
         "Revision Date": "05/18/2016 5/7",
-        "Acetic Acid": "EC50, Water Flea (Daphnia magna): 47 mg/L 24 h LC50, Fathead Minnow (Pimephales promelas): 88 mg/L 96 h LC50, Rainbow Trout (Oncorhynchus mykiss): > 1000 mg/L 96 h",
+        "Acetic Acid": "EC50, Water Flea (Daphnia magna): 47 mg/L 24 h",
+        "LC50, Fathead Minnow (Pimephales promelas)": "88 mg/L 96 h",
+        "LC50, Rainbow Trout (Oncorhynchus mykiss)": "> 1000 mg/L 96 h",
         "Persistence and Degradability": "Expected to be readily biodegradable. Not expected to bioaccumulate.",
         "Environmental Effects": "May be harmful to aquatic organisms. Avoid release to the environment. 13."
     },
@@ -218,7 +235,8 @@
         "Waste Codes": "No information found. 14."
     },
     "TRANSPORT INFORMATION": {
-        "DOT": "< 10% w/w: Not Regulated.",
+        "DOT": "Not Provided",
+        "< 10% w/w": "Not Regulated.",
         "A1006": "UN Number: UN2790",
         "Proper Shipping Name": "Acetic acid solution",
         "Hazard Class": "8",
@@ -228,10 +246,12 @@
         "Other Transport Precautions": "Acetic Acid: DOT Reportable Quantity: 5000 lb 15."
     },
     "REGULATORY INFORMATION": {
+        "U.S. Federal Regulations": "Not Provided",
         "OSHA": "This product is considered a \"Hazardous Chemical\" as defined by the OSHA Hazard Communication Standard, 29 CFR 1910.1200.",
         "TSCA Inventory": "All components of this product are on the U.S. TSCA Inventory.",
         "Product": "Acetic Acid, 1 N, 3-10% v/v",
-        "Revision Date": "05/18/2016 6/7 U.S. EPCRA (SARA Title III):",
+        "Revision Date": "05/18/2016 6/7",
+        "U.S. EPCRA (SARA Title III)": "Not Provided",
         "Section 302": "No information found.",
         "Sections 311/312": "Hazard Category List (Yes/No) Section 311 \u2013 Hazardous Chemical Yes Immediate Hazard Yes Delayed Hazard Yes Fire Hazard No Pressure Hazard No Reactivity Hazard No",
         "Section 313": "No information found.",
