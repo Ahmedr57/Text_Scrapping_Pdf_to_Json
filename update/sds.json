@@ -1,0 +1,143 @@
+{
+    "Identification": {
+        "Product Identifier": "Acetic Acid, 1 N, 3-10% v/v",
+        "Recommended Use": "For manufacturing, industrial, and laboratory use only. For use as a solvent or as a",
+        "Uses Advised Against": "Not for food, drug, or household use.",
+        "Supplier Information": {
+            "Name": "Component Common Name / Synonyms CAS# Chemical Formula % by Weight",
+            "Phone": "(303) 777-3777 Fax: (303) 777-3331",
+            "Fax": "(303) 777-3777 Fax: (303) 777-3331"
+        },
+        "Emergency Phone Number": "For health emergency, call poison control: (800) 222-1222."
+    },
+    "Hazards Identification": {
+        "Hazard Classifications": {
+            "Skin Corrosion/Irritation": "Skin Corrosion/Irritation: Category 1A",
+            "Eye Damage/Irritation": "Category 1"
+        },
+        "Signal Word": "DANGER",
+        "Hazard Statements": "Causes severe skin burns and serious eye damage.",
+        "Precautionary Statements": {
+            "Storage": "Store locked up.",
+            "Disposal": "Dispose of contents and container in accordance with local, regional, national, and"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Components": [
+            {
+                "Name": "Component Common Name / Synonyms CAS# Chemical Formula % by Weight",
+                "Chemical Formula": "Component Common Name / Synonyms CAS# Chemical Formula % by Weight"
+            }
+        ]
+    },
+    "First-Aid Measures": {
+        "Inhalation": "Move to fresh air. If breathing is difficult, give oxygen. If not breathing, give artificial",
+        "Ingestion": "Do not induce vomiting unless directed to do so by medical personnel. If vomiting occurs,",
+        "Skin Contact": "Remove contaminated clothing and shoes. Wash skin with plenty of water for at least 15",
+        "Eye Contact": "Check for and remove contact lenses if present and easy to do. Immediately flush eyes with"
+    },
+    "Firefighting Measures": {
+        "Unsuitable Extinguishing Media": "Do not use a solid (straight) water stream, as it may scatter and spread fire.",
+        "Specific Hazards": "May decompose upon heating to produce corrosive and/or toxic fumes.",
+        "Special Protective Equipment": "Special Protective Equipment/ As in any fire, wear MSHA/NIOSH approved (or equivalent), self-contained, positive-"
+    },
+    "Accidental Release Measures": {
+        "Personal Precautions": "Personal Precautions and Ventilate area of leak or spill. Isolate hazard area and keep unnecessary and unprotected",
+        "Methods for Containment": "Stop the flow of material, if this is without risk. Prevent entry into waterways, sewer,",
+        "Methods for Cleanup": "Absorb spill with an inert material (e.g. vermiculite, dry sand, earth, cloth, or fleece) and"
+    },
+    "Handling and Storage": {
+        "Handling": "Wear personal protective equipment (see Section 8). Use only in well-ventilated areas.",
+        "Storage": "Store locked up."
+    },
+    "Exposure Controls/Personal Protection": {
+        "Exposure Limits": {
+            "Acetic Acid": {
+                "ACGIH": {
+                    "TWA": "ACGIH: TWA: 10 ppm",
+                    "STEL": "15 ppm"
+                },
+                "OSHA": {
+                    "PEL": "PEL: 10 ppm"
+                },
+                "NIOSH": {
+                    "IDL": "IDLH: 50 ppm",
+                    "TWA": "ACGIH: TWA: 10 ppm",
+                    "STEL": "15 ppm"
+                }
+            }
+        },
+        "Engineering Controls": "Ensure adequate ventilation. Ventilation rates should be matched to conditions. If",
+        "Personal Protective Measures": {
+            "Eye/Face Protection": "Wear safety glasses with side shields or goggles and a face shield. Maintain approved eye",
+            "Skin Protection": "Wear appropriate chemical resistant clothing (with long sleeves) and appropriate chemical",
+            "Respiratory Protection": "An air-purifying, NIOSH-approved respirator with appropriate cartridge or canister may be"
+        }
+    },
+    "Physical and Chemical Properties": {
+        "Appearance": "Colorless, transparent liquid.",
+        "Odor": "Pungent, vinegar.",
+        "Odor Threshold": "< 1 ppm",
+        "Formula Weight": "60.05 as C2H4O2",
+        "pH": "2.4 (1 M aqueous)",
+        "Melting/Freezing Point": "\u2248 0 \u00b0C",
+        "Boiling Point/Range": "\u2248 100 \u00b0C",
+        "Decomposition Temperature": "No information found.",
+        "Flash Point": "Not applicable.",
+        "Flammability": "Not flammable.",
+        "Solubility": "Miscible with water.",
+        "Specific Gravity": "1.002 \u2013 1.013 (Water = 1)"
+    },
+    "Stability and Reactivity": {
+        "Reactivity Data": "Corrosive to several materials, especially certain metals. See Section 11.",
+        "Chemical Stability": "Stable under normal conditions.",
+        "Hazardous Polymerization": "Will not occur."
+    },
+    "Toxicological Information": {
+        "Acute Effects": "Corrosive. Harmful if swallowed or inhaled. Causes burns and damage to the eyes, skin,",
+        "Chronic Effects": "Prolonged or repeated exposure may cause tooth damage, skin discoloration, and",
+        "Carcinogenic Effects": "This product is not considered to be a carcinogen by IARC, ACGIH, NTP, or OSHA."
+    },
+    "Ecological Information": {
+        "Persistence and Degradability": "Expected to be readily biodegradable. Not expected to bioaccumulate.",
+        "Environmental Effects": "May be harmful to aquatic organisms. Avoid release to the environment."
+    },
+    "Disposal Considerations": {
+        "Disposal Instructions": "All wastes must be handled in accordance with local, state, and federal regulations.",
+        "Contaminated Packaging": "Because emptied containers retain product residue, follow label warnings even after"
+    },
+    "Transport Information": {
+        "DOT": {
+            "UN Number": "UN Number: UN2790",
+            "Proper Shipping Name": "Acetic acid solution",
+            "Hazard Class": "Skin Corrosion/Irritation: Category 1A",
+            "Packing Group": "III",
+            "ERG Number": "153"
+        }
+    },
+    "Regulatory Information": {
+        "U.S. Federal Regulations": {
+            "OSHA": "PEL: 10 ppm",
+            "TSCA Inventory": "All components of this product are on the U.S. TSCA Inventory."
+        },
+        "EPCRA SARA Title III": {
+            "Section 311/312": {
+                "Hazardous Chemical": "This product is considered a \"Hazardous Chemical\" as defined by the OSHA Hazard",
+                "Immediate Hazard": "Immediate Hazard Yes",
+                "Delayed Hazard": "Delayed Hazard Yes",
+                "Fire Hazard": "Fire Hazard No",
+                "Pressure Hazard": "Pressure Hazard No",
+                "Reactivity Hazard": "Reactivity Hazard No"
+            },
+            "CERCLA Reportable Quantities": "Acetic Acid, Glacial: 5000 lb"
+        },
+        "International Inventories": {
+            "Australia": "Australia Australian Inventory of Chemical Substances (AICS) N/A"
+        }
+    },
+    "Other Information": {
+        "Disclaimer": "The Science Company provides the information in this Safety Data Sheet in the belief that",
+        "Issue Date": "May 18, 2016",
+        "Reason for Revision": "Update of Section 9 over 03/24/2016 version."
+    }
+}
