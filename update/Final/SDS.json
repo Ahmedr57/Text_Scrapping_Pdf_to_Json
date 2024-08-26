@@ -1,0 +1,390 @@
+{
+    "Identification": {
+        "Product Identifier": "Acetic Acid, 1 N, 3-10% v/v",
+        "Product Code": [
+            "NC-2271",
+            "A1005",
+            "A1006",
+            "A1007",
+            "A1015",
+            "A1040",
+            "A1060",
+            "CF1171",
+            "CF1209"
+        ],
+        "Synonyms": [
+            "Ethanoic Acid Solution",
+            "Methanecarboxylic Acid Solution",
+            "Vinegar Solution."
+        ],
+        "Recommended Use": "For manufacturing, industrial, and laboratory use only. For use as a solvent or as a laboratory reagent.",
+        "Uses Advised Against": "Not for food, drug, or household use.",
+        "Supplier": {
+            "Name": "The Science Company",
+            "Address": " 7625 W Hampden Ave #14 Lakewood CO 80227",
+            "Phone": "(303) 777-3777",
+            "Fax": "(303) 777-3331"
+        },
+        "Emergency Phone Number": {
+            "For health emergency, call poison control": "(800) 222-1222."
+        }
+    },
+    "Hazards Identification": {
+        "Hazard Classifications": {
+            "Skin Corrosion/Irritation": "Category 1A",
+            "Eye Damage/Irritation": "Category 1"
+        },
+        "Signal Word": "DANGER",
+        "Hazard Statements": "Causes severe skin burns and serious eye damage.",
+        "Picogram": "Not Available",
+        "Precautionary Statements": {
+            "Prevention": [
+                "Do not breathe fumes, mists, vapors, or spray",
+                "Wash thoroughly after handling",
+                "Wear protective gloves, protective clothing, eye protection, and face protection",
+                ""
+            ],
+            "Response": {
+                "call": "Immediately call a poison center or doctor.",
+                "If swallowed": [
+                    "Rinse mouth",
+                    "Do NOT induce vomiting",
+                    ""
+                ],
+                "If on skin (or hair)": [
+                    "Take off immediately all contaminated clothing",
+                    "Rinse skin with water",
+                    "Wash contaminated clothing before reuse",
+                    ""
+                ],
+                "If inhaled": "Remove person to fresh air and keep comfortable for breathing.",
+                "If in eyes": [
+                    "Rinse cautiously with water for several minutes",
+                    "Remove contact lenses, if present and easy to do",
+                    "Continue rinsing",
+                    ""
+                ]
+            },
+            "Storage": "Store locked up.",
+            "Disposal": "Dispose of contents and container in accordance with local, regional, national, and international regulations."
+        },
+        "Hazards Not Otherwise Classified": [
+            "May be toxic to reproduction",
+            "Classified: Excessive exposure may cause skin or respiratory sensitization and tooth decay",
+            ""
+        ],
+        "Toxicity Statement": "Not applicable."
+    },
+    "Composition and Information on Ingredients": {
+        "Composition and Information on Ingredients": [
+            {
+                "Component": "Water",
+                "Common Name / Synonyms": "Water",
+                "CAS#": "7732-18-5",
+                "Chemical Formula": "H2O",
+                "% by Weight": "89 – 97"
+            },
+            {
+                "Component": "Acetic Acid",
+                "Common Name / Synonyms": "Ethanoic Acid; Alcohol of Vinegar",
+                "CAS#": "64-19-7",
+                "Chemical Formula": "C2H4O2",
+                "% by Weight": "3.0 – 11"
+            }
+        ],
+        "Trade Secret Statement": "Not applicable."
+    },
+    "First-Aid Measures": {
+        "Inhalation": "Move to fresh air. If breathing is difficult, give oxygen. If not breathing, give artificial respiration. WARNING! It may be hazardous to the person providing aid to give mouth-to- mouth resuscitation when the inhaled or ingested material is toxic, infectious, or corrosive. Do not use mouth-to-mouth resuscitation if victim ingested or inhaled the substance; induce artificial respiration with the aid of a pocket mask equipped with a one-way valve or other proper respiratory medical device. Get medical attention immediately.",
+        "Ingestion": "Do not induce vomiting unless directed to do so by medical personnel. If vomiting occurs, keep head low so that vomit does not enter lungs. Never give anything by mouth to an unconscious person. Get medical attention immediately.",
+        "Skin Contact": "Remove contaminated clothing and shoes. Wash skin with plenty of water for at least 15 minutes. Wash clothing before reuse. Get medical attention immediately.",
+        "Eye Contact": "Check for and remove contact lenses if present and easy to do. Immediately flush eyes with gentle but large stream of water for at least 15 minutes, lifting lower and upper eyelids occasionally. Get medical attention immediately.",
+        "General Advice": "Poison information centers in each state can provide additional assistance for scheduled poisons. Ensure that medical personnel and those providing first aid are aware of the material(s) involved and take precautions to protect themselves.",
+        "Symptoms and Effects": "Inhalation of vapors may cause coughing and dizziness. Ingestion may cause nausea, vomiting, blood in vomit, diarrhea, abdominal pain, constipation, and shock. Contact with the skin may cause blistering. May affect the blood, liver, kidneys, eyes, and central nervous system.",
+        "Immediate Medical Care/ Special Treatment": "Immediate medical attention is required. Immediately call a poison center or doctor. Treat symptomatically."
+    },
+    "Firefighting Measures": {
+        "Suitable Extinguishing Media": [
+            "Water spray",
+            "dry powder",
+            "alcohol resistant foam",
+            "carbon dioxide."
+        ],
+        "Unsuitable Extinguishing Media": "Do not use a solid (straight) water stream, as it may scatter and spread fire.",
+        "Hazardous Combustion Products": "Carbon oxides. ",
+        "Specific Hazards": "May decompose upon heating to produce corrosive and/or toxic fumes.",
+        "Special Protective Equipment/ Precautions for Firefighters": "As in any fire, wear MSHA/NIOSH approved (or equivalent), self-contained, positive- pressure or pressure-demand breathing apparatus and full protective gear. In the event of fire and/or explosion, do not breathe fumes."
+    },
+    "Accidental Release Measures": {
+        "Personal Precautions and Protective Equipment": "Ventilate area of leak or spill. Isolate hazard area and keep unnecessary and unprotected personnel away from the area of the leak or spill. Keep upwind. Keep out of low areas. Wear appropriate personal protective equipment (see Section 8). Avoid contact with eyes, skin, and clothing.",
+        "Emergency Procedures": "In case of chemical emergency, or if unsure how to address an accidental release, consult a professional (see Section 1).",
+        "Methods for Containment": "Stop the flow of material, if this is without risk. Prevent entry into waterways, sewer, basements, or confined areas. Dike the spilled material, where this is possible. Product should not be released to the environment. Contain and recover liquid when possible.",
+        "Methods for Cleanup": "Absorb spill with an inert material (e.g. vermiculite, dry sand, earth, cloth, or fleece) and place in a non-combustible container for reclamation or disposal. Do not flush to sewer. Clean contaminated surface thoroughly. Residues from spills can be neutralized with dilute sodium carbonate solution. Never return spills in original containers for reuse. Clean up in accordance with all applicable regulations."
+    },
+    "Handling and Storage": {
+        "Handling": "Wear personal protective equipment (see Section 8). Use only in well-ventilated areas. Provide sufficient air exchange and/or exhaust in work areas. Avoid contact with skin, eyes, and clothing. Do not breathe vapors or spray mist. Do not ingest. When using, do not eat, drink, or smoke. Keep away from incompatible materials (see Section 10). Limit exposure to moisture. Use caution when opening product container, as pressure buildup may occur. Handle in accordance with good industrial hygiene and safety practice. Wash thoroughly after handling. Containers of this material may be hazardous when empty, as they retain product residues. Observe all warnings and precautions listed for this product.",
+        "Storage": "Store in a cool, dry, ventilated area. Store in a segregated and approved area away from incompatible materials (see Section 10). Store in original container. Keep containers tightly closed and upright. Keep away from food, drink, and animal foodstuffs. Keep out of the reach of children. Comply with all national, state, and local codes pertaining to the storage, handling, dispensing, and disposal of this product."
+    },
+    "Exposure Controls and Personal Protection": {
+        "Exposure Limits": {
+            "water": "No information found.",
+            "Acetic Acid": {
+                "ACGIH": {
+                    "TWA": "10 ppm",
+                    "STEL": "15 ppm"
+                },
+                "OSHA": {
+                    "PEL": "10 ppm"
+                },
+                "NIOSH": {
+                    "IDLH": "50 ppm",
+                    "TWA": "10 ppm",
+                    "STEL": "15 ppm"
+                }
+            }
+        },
+        "Engineering Controls": "Ensure adequate ventilation. Ventilation rates should be matched to conditions. If applicable, use process enclosures, local exhaust ventilation, or other engineering controls to maintain airborne levels below recommended exposure limits. If exposure limits have not been established, maintain airborne levels to an acceptable level.",
+        "Personal Protective Measures": {
+            "Eye/Face Protection": "Wear safety glasses with side shields or goggles and a face shield. Maintain approved eye wash station and accessible rinse facilities in work area.",
+            "Skin Protection": "Wear appropriate chemical resistant clothing (with long sleeves) and appropriate chemical resistant gloves.",
+            "Respiratory Protection": "An air-purifying, NIOSH-approved respirator with appropriate cartridge or canister may be permissible under certain circumstances where airborne concentrations are expected to exceed exposure limits. Use a positive-pressure, air-supplied respirator if there is any potential for an uncontrolled release, if exposure levels are unknown, or if any other circumstances exist where air-purifying respirators may not provide adequate protection."
+        },
+        "Specific Requirements for Personal Protective Equipment": "Ensure that glove material is compatible with this product. This information is available from glove manufacturers. "
+    },
+    "Physical and Chemical Properties": {
+        "properties": "Unless otherwise indicated, all properties are given at 25 °C and standard pressure.",
+        "Appearance": [
+            "Colorless",
+            "transparent liquid."
+        ],
+        "Odor": [
+            "Pungent",
+            "vinegar."
+        ],
+        "Odor Threshold": "< 1 ppm",
+        "Formula Weight": "60.05 as C2H4O2",
+        "pH": "2.4 (1 M aqueous)",
+        "Melting/Freezing Point": "≈ 0 °C",
+        "Boiling Point/Range": "≈ 100 °C",
+        "Decomposition Temperature": "No information found.",
+        "Flash Point": "Not applicable.",
+        "Auto-ignition Temperature": "Not applicable.",
+        "Flammability": "Not applicable.",
+        "Flammability/Explosive Limits": "Not applicable.",
+        "Solubility": "Miscible with water.",
+        "Vapor Pressure": "No information found.",
+        "Vapor Density": "No information found.",
+        "Specific Gravity": "1.002 – 1.013 (Water = 1)",
+        "Evaporation Rate": "No information found.",
+        "Viscosity": "No information found.",
+        "Partition Coefficient (n-octanol/water)": "No information found."
+    },
+    "Stability and Reactivity": {
+        "Reactivity Data": "Corrosive to several materials, especially certain metals. See Section 11.",
+        "Chemical Stability": "Stable under normal conditions.",
+        "Conditions to Avoid": [
+            "Heat",
+            "moisture",
+            "incompatible materials."
+        ],
+        "Incompatible Materials": [
+            "Oxidizing agents",
+            "strong bases",
+            "metals",
+            "amines",
+            "carbonates",
+            "phosphates."
+        ],
+        "Hazardous Decomposition Products": [
+            "Carbon oxides",
+            "hydrogen."
+        ],
+        "Possibility of Hazardous Reactions": "May react vigorously or violently if exposed to excess thermal conditions or in contact with Reactions: the incompatible materials listed above. Contact with metals may yield hazardous concentrations of hydrogen gas.",
+        "Hazardous Polymerization": "Will not occur."
+    },
+    "Toxicological Information": {
+        "Routes of Exposure": [
+            "Inhalation",
+            "ingestion",
+            "skin contact",
+            "eye contact."
+        ],
+        "Acute Effects": [
+            "Corrosive",
+            "Harmful if swallowed or inhaled",
+            "Causes burns and damage to the eyes, skin, respiratory tract, and gastrointestinal tract",
+            "May affect the mucous membranes, blood, brain, urinary system, liver, eyes, and kidneys",
+            ""
+        ],
+        "Chronic Effects": [
+            "Prolonged or repeated exposure may cause tooth damage, skin discoloration, and respiratory irritation",
+            "Prolonged or repeated exposure may cause mutagenic effects, skin sensitization, and adverse reproductive effects",
+            ""
+        ],
+        "Toxicological Data": {
+            "Water": "Water: Not applicable.",
+            "Acetic Acid": {
+                "LD50, Oral, Rat": "3310 mg/kg",
+                "LC50, Inhalation, Rat": "11.4 mg/L 4 h",
+                "LD50, Dermal, Rabbit": "1060 mg/kg",
+                "based": "May cause reproductive effects based on animal data."
+            }
+        },
+        "Symptoms of Exposure": [
+            "Irritation",
+            "blistering",
+            "burns",
+            "dizziness",
+            "visual disturbances",
+            "metabolic acidosis",
+            "suffocation",
+            "shortness of breath",
+            "coughing",
+            "nausea",
+            "vomiting",
+            "blood in vomit",
+            "diarrhea",
+            "constipation",
+            "abdominal pain",
+            "blindness",
+            "bronchitis",
+            "shock."
+        ],
+        "Carcinogenic Effects": "This product is not considered to be a carcinogen by IARC, ACGIH, NTP, or OSHA."
+    },
+    "Ecological Information": {
+        "Ecotoxicological Data": {
+            "Water": "Water: Not applicable.",
+            "Acetic Acid": {
+                "EC50, Water Flea (Daphnia magna)": "47 mg/L 24 h",
+                "LC50, Fathead Minnow (Pimephales promelas)": "88 mg/L 96 h",
+                "LC50, Rainbow Trout (Oncorhynchus mykiss)": "> 1000 mg/L 96 h"
+            }
+        },
+        "Persistence and Degradability": [
+            "Expected to be readily biodegradable",
+            "Not expected to bioaccumulate",
+            ""
+        ],
+        "Environmental Effects": [
+            "May be harmful to aquatic organisms",
+            "Avoid release to the environment",
+            ""
+        ]
+    },
+    "Disposal Information": {
+        "Disposal Instructions": "All wastes must be handled in accordance with local, state, and federal regulations. Minimize exposure to product waste (see Section 8). Do not dispose unused waste down drains or into sewers.",
+        "Contaminated Packaging": "Because emptied containers retain product residue, follow label warnings even after container is emptied. Residual vapors may explode on ignition; do not cut, drill, grind, or weld on or near product container. Offer rinsed packaging material to local recycling facilities.",
+        "Waste Codes": "No information found."
+    },
+    "Transport Information": {
+        "DOT": {
+            "< 10% w/w": "Not Regulated.",
+            "A1006": {
+                "UN Number": "UN Number: UN2790",
+                "Proper Shipping Name": "Acetic acid solution",
+                "Hazard Class": "8",
+                "Packing Group": "III",
+                "ERG Number": "153"
+            },
+            "Environmental Hazard Regulations": "No information found.",
+            "Other Transport Precautions": {
+                "Acetic Acid": {
+                    "DOT Reportable Quantity": "5000 lb"
+                }
+            }
+        }
+    },
+    "Regulatory Information": {
+        "U.S. Federal Regulations": {
+            "OSHA": "This product is considered a \"Hazardous Chemical\" as defined by the OSHA Hazard Communication Standard, 29 CFR 1910.1200.",
+            "TSCA Inventory": "All components of this product are on the U.S. TSCA Inventory."
+        },
+        "U.S. EPCRA (SARA Title III)": {
+            "Section 302": "No information found.",
+            "Section 311/312": [
+                {
+                    "Hazard Category": "Section 311 – Hazardous Chemical",
+                    "List (Yes/No)": "Yes"
+                },
+                {
+                    "Hazard Category": "Immediate Hazard",
+                    "List (Yes/No)": "Yes"
+                },
+                {
+                    "Hazard Category": "Delayed Hazard",
+                    "List (Yes/No)": "Yes"
+                },
+                {
+                    "Hazard Category": "Fire Hazard",
+                    "List (Yes/No)": "No"
+                },
+                {
+                    "Hazard Category": "Pressure Hazard",
+                    "List (Yes/No)": "No"
+                },
+                {
+                    "Hazard Category": "Reactivity Hazard",
+                    "List (Yes/No)": "No"
+                }
+            ],
+            "Section 313": "No information found."
+        },
+        "CERCLA Reportable Quantities": {
+            "Acetic Acid, Glacial": "5000 lb"
+        },
+        "International Inventories": [
+            {
+                "Country or Region": "Australia",
+                "Inventory Name": "Australian Inventory of Chemical Substances (AICS)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Canada",
+                "Inventory Name": "Domestic Substances List (DSL)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Canada",
+                "Inventory Name": "Non-Domestic Substances List (NDSL)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "China",
+                "Inventory Name": "Inventory of Existing Chemical Substances in China (IECSC)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Europe",
+                "Inventory Name": "European Inventory of Existing Commercial Chemical Substances\n(EINECS)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Europe",
+                "Inventory Name": "European List of Notified Chemical Substances (ELINCS)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Japan",
+                "Inventory Name": "Inventory of Existing and New Chemical Substances (ENCS)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Korea",
+                "Inventory Name": "Existing Chemicals List (ECL)",
+                "On Inventory (Yes/No)*": "N/A"
+            },
+            {
+                "Country or Region": "Philippines",
+                "Inventory Name": "Philippine Inventory of Chemicals and Chemical Substances (PICCS)",
+                "On Inventory (Yes/No)*": "N/A"
+            }
+        ],
+        "listed": "*A \"Yes\" indicates that the listed component(s) of this product comply with the inventory requirements administered by the governing country(s)."
+    },
+    "Other Information": {
+        "Disclaimer": "The Science Company provides the information in this Safety Data Sheet in the belief that it is reliable but assumes no responsibility for its completeness or accuracy. The physical properties reported in this SDS are obtained from literature and do not constitute product specifications. The Science Company makes and gives no representations or warranties with respect to the information contained herein or the product to which it refers, whether express, implied, or statutory, including without limitation, warranties of accuracy, completeness, merchantability, non-infringement, performance, safety, suitability, stability, and fitness for a particular purpose. No warranty against infringement of any patent, copyright or trademark is made or implied. This SDS is intended only as a guide to the appropriate handling of the material by a properly trained person. It shall be the user's responsibility to develop proper methods of handling and personal protection based on the actual conditions of use. Accordingly, The Science Company assumes no liability whatsoever for the use of or reliance upon this information including results obtained, incidental or consequential damages, or lost profits.",
+        "Issue Date": "May 18, 2016",
+        "Reason for Revision": "Update of Section 9 over 03/24/2016 version."
+    }
+}
